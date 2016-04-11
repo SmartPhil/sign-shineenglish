@@ -1,0 +1,17 @@
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\bin\Debug\ShineEnglishSign.exe.config
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\bin\Debug\ShineEnglishSign.exe
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\bin\Debug\ShineEnglishSign.pdb
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\obj\Debug\ShineEnglishSign.Form1.resources
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\obj\Debug\ShineEnglishSign.Properties.Resources.resources
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\obj\Debug\ShineEnglishSign.csproj.GenerateResource.Cache
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\obj\Debug\ShineEnglishSign.exe
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\obj\Debug\ShineEnglishSign.pdb
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\obj\Debug\ShineEnglishSign.GeneralQRcode.resources
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\bin\Debug\ThoughtWorks.QRCode.dll
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\bin\Debug\mysql.data.dll
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\bin\Debug\mysql.data.entity.dll
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\bin\Debug\mysql.visualstudio.dll
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\bin\Debug\mysql.web.dll
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\obj\Debug\ShineEnglishSign.GetSignRecord.resources
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\obj\Debug\ShineEnglishSign.csproj.ResolveComReference.cache
+F:\vs2012项目\ShineEnglishSign\ShineEnglishSign\bin\Debug\Aspose.Cells.dll
